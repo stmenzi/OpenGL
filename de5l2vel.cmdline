@@ -1,0 +1,1 @@
+﻿/t:exe /utf8output /out:"C:\Temp\gl_blend\C-Sharp-test.exe" /debug- /optimize+ /w:3 /optimize  ".\de5l2vel.0.cs"

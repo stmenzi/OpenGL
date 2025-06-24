@@ -1,0 +1,7 @@
+﻿C:\Users\Makis\Desktop\ΣΤΕΛΛΑ ΜΕΖΙΛΝΤΖΙΔΟΥ\PROJECT\Graphics\Graphics\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:exe /utf8output /out:"C:\Temp\gl_blend\C-Sharp-test.exe" /debug- /optimize+ /w:3 /optimize  ".\3mpeeeda.0.cs"
+
+
+Πρόγραμμα μεταγλώττισης της Microsoft (R) Visual C# 2010, έκδοση 4.0.30319.1
+Πνευματικά δικαιώματα (C) Microsoft Corporation.  Με επιφύλαξη κάθε νόμιμου δικαιώματος.
+
+error CS5001: Το πρόγραμμα 'c:\temp\gl_blend\C-Sharp-test.exe' δεν περιέχει μια στατική μέθοδο 'Main' κατάλληλη για ένα σημείο καταχώρησης

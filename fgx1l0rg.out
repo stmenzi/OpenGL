@@ -1,0 +1,6 @@
+﻿E:\ΣΤΕΛΛΑ ΜΕΖΙΛΝΤΖΙΔΟΥ\PROJECT\Graphics\Graphics\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:exe /utf8output /out:"c:\temp\C-Sharp-test.exe" /debug- /optimize+ /w:3 /optimize  ".\fgx1l0rg.0.cs"
+
+
+Microsoft (R) Visual C# 2010 Compiler version 4.0.30319.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+

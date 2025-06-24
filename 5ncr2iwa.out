@@ -1,0 +1,9 @@
+﻿E:\ΣΤΕΛΛΑ ΜΕΖΙΛΝΤΖΙΔΟΥ\PROJECT\Graphics\Graphics\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:exe /utf8output /out:"C:\Temp\gl_blend\C-Sharp-test.exe" /debug- /optimize+ /w:3 /optimize  "C:\Temp\gl_blend\APRON.sln"
+
+
+Microsoft (R) Visual C# 2010 Compiler version 4.0.30319.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+c:\Temp\gl_blend\APRON.sln(3,3): error CS1024: Preprocessor directive expected
+c:\Temp\gl_blend\APRON.sln(3,10): error CS1025: Single-line comment or end-of-line expected
+c:\Temp\gl_blend\APRON.sln(2,1): error CS0116: A namespace cannot directly contain members such as fields or methods

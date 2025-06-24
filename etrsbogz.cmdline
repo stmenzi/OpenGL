@@ -1,0 +1,1 @@
+﻿/t:exe /utf8output /out:"c:\temp\C-Sharp-test.exe" /debug- /optimize+ /w:3 /optimize  ".\etrsbogz.0.cs"

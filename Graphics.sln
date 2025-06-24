@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics", "Graphics\Graphics.csproj", "{A96F77AE-90AF-43A2-BB94-09437DFE320F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LearningOpenGL", "LearningOpenGL\LearningOpenGL.vdproj", "{9ACA2E26-3B07-4A62-81EC-8873E5FCCA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96F77AE-90AF-43A2-BB94-09437DFE320F}.Debug|x86.ActiveCfg = Debug|x86
+		{A96F77AE-90AF-43A2-BB94-09437DFE320F}.Debug|x86.Build.0 = Debug|x86
+		{A96F77AE-90AF-43A2-BB94-09437DFE320F}.Release|x86.ActiveCfg = Release|x86
+		{A96F77AE-90AF-43A2-BB94-09437DFE320F}.Release|x86.Build.0 = Release|x86
+		{9ACA2E26-3B07-4A62-81EC-8873E5FCCA71}.Debug|x86.ActiveCfg = Debug
+		{9ACA2E26-3B07-4A62-81EC-8873E5FCCA71}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
